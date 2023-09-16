@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ishtarAR" size="30.000000 42.421875" />
+  </Tracking>
+</QCARConfig>
